@@ -139,3 +139,4 @@ def main():
 
 main()
 print(marieke is geweldig en britte kan het niet)
+print(wat een stomme computers)
