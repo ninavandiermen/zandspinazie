@@ -1,3 +1,4 @@
+#yoyo bitches 
 class Maze:
     def __init__(self, filename):
         self.file = open(filename, "r") #open the file
